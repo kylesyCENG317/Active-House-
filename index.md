@@ -8,6 +8,12 @@ Active House
 BLOG.
 -------------
 
+### Week 3
+
+Created skeleton with SRS, work breakdown of database, work breakdown of application, work breakdown of
+web. Wrote Arduino code. Did some more soldering.
+*we make our database running as soon as possible
+ 
 
 ### Week 2
 
