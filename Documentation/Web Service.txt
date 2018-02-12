@@ -1,0 +1,9 @@
+Web Service
+
+Our project has a software system design that will facilitate the transfer of data between a gateway and a cloud. 
+This is our blueprint for a support for a machine-to-machine  interaction over a network .Basically, the raspberry pi will be 
+communicating medium between the arduino which is our sensorhub/sensorbox and the our cloud through worldwide service. 
+This service will be utilized for communication purposes, specifically for transferring machine readable file. 
+We will have a database server which will be utilized by a mobile app.
+
+//Revisions? 
